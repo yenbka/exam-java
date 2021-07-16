@@ -29,7 +29,7 @@ public class Product {
 		this.price = price;
 	}
 	public void display() {
-		System.out.println("id: " + id + "|Tên:"+name+"|Giá:"+price);
+		System.out.println("id: " + id + "|Name:"+name+"|Price:"+price);
 	}
       
 }
